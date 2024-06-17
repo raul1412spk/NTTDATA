@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\services\\movimientoservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\services\\movimientoservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\services\\cuentaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\cuentamovimiento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\cuentamovimiento.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|c:\\users\\rnarvaez\\desktop\\nttdata\\fn\\cuentamovimiento\\c\\cuentamovimiento\\cuentamovimiento\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70868385-6D29-4CC6-A5D2-A9D071E4A0AE}|cuentamovimiento\\cuentamovimiento.csproj|solutionrelative:cuentamovimiento\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "cuentamovimiento\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "cuentamovimiento\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwCYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:31:25.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimientoService .cs",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Services\\MovimientoService .cs",
+              "RelativeDocumentMoniker": "cuentamovimiento\\Services\\MovimientoService .cs",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Services\\MovimientoService .cs",
+              "RelativeToolTip": "cuentamovimiento\\Services\\MovimientoService .cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:29:10.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaController.cs",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Controllers\\CuentaController.cs",
+              "RelativeDocumentMoniker": "cuentamovimiento\\Controllers\\CuentaController.cs",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Controllers\\CuentaController.cs",
+              "RelativeToolTip": "cuentamovimiento\\Controllers\\CuentaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:28:43.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaService.cs",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Services\\CuentaService.cs",
+              "RelativeDocumentMoniker": "cuentamovimiento\\Services\\CuentaService.cs",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Services\\CuentaService.cs",
+              "RelativeToolTip": "cuentamovimiento\\Services\\CuentaService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:28:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "cuentamovimiento\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "cuentamovimiento\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:27:07.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Program.cs",
+              "RelativeDocumentMoniker": "cuentamovimiento\\Program.cs",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\Program.cs",
+              "RelativeToolTip": "cuentamovimiento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:10:11.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cuentamovimiento.csproj",
+              "DocumentMoniker": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\cuentamovimiento.csproj",
+              "RelativeDocumentMoniker": "cuentamovimiento\\cuentamovimiento.csproj",
+              "ToolTip": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\C\\cuentamovimiento\\cuentamovimiento\\cuentamovimiento.csproj",
+              "RelativeToolTip": "cuentamovimiento\\cuentamovimiento.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T05:09:15.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

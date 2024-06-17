@@ -1,0 +1,77 @@
+{
+	"info": {
+		"_postman_id": "eaedcaa5-acc6-4822-8225-7fe8db0deb2a",
+		"name": "ClientePersona",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "23542211",
+		"_collection_link": "https://web.postman.co/workspace/Team-Workspace~a44ee0c9-38dc-484d-834d-5acf50a2605d/collection/23542211-eaedcaa5-acc6-4822-8225-7fe8db0deb2a?action=share&source=collection_link&creator=23542211"
+	},
+	"item": [
+		{
+			"name": "CreaCliente",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  {\r\n\r\n    \"nombre\": \"Jose Lema\",\r\n    \"genero\": \"Masculino\",\r\n    \"edad\": 31,\r\n    \"identificacion\": \"123456789\",\r\n    \"direccion\": \"Otavalo sn y principal\",\r\n    \"telefono\": \"098254785\",\r\n    \"usuario\": \"jperez\",\r\n    \"password\": \"1234\",\r\n    \"estado\": \"Activo\"\r\n\r\n\r\n  }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8090/clientes"
+			},
+			"response": []
+		},
+		{
+			"name": "EliminaCliente",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "http://localhost:8090/clientes/3"
+			},
+			"response": []
+		},
+		{
+			"name": "ConsultaPorId",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8090/clientes/4"
+			},
+			"response": []
+		},
+		{
+			"name": "EditarClientePorId",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  {\r\n\r\n \r\n  \"nombre\": \"Juan Perez\",\r\n    \"genero\": \"Masculino\",\r\n    \"edad\": 31,    \r\n    \"direccion\": \"Calle Falsa 123\",\r\n    \"telefono\": \"555-1234\",\r\n    \"password\": \"newpassword\",\r\n    \"usuario\": \"newpassword\",\r\n    \"estado\": \"Activo\"\r\n\r\n  }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8090/clientes/4"
+			},
+			"response": []
+		}
+	]
+}

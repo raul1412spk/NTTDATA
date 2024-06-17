@@ -1,0 +1,6 @@
+@CuentaMovimiento_HostAddress = http://localhost:5168
+
+GET {{CuentaMovimiento_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

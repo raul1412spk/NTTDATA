@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CS0sp0wSNTf9rzoUrDbA1rJmI74lJRfJ7toeAOEygy8mFosWrvkQNNfqr0n0hLFhrwAkO2XUkqh9cdTzNOMdKg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\rnarvaez\\Desktop\\NTTDATA\\FN\\cuentamovimiento\\cuentamovimiento\\CuentaMovimiento.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 6.4.0)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
